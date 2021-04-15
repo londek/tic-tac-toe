@@ -1,0 +1,14 @@
+{
+  "name": "kolo-krzyz",
+  "version": "1.0.0",
+  "description": "Gra w kolo i krzyzyk jako projekt szkolny",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
